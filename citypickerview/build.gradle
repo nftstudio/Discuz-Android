@@ -9,7 +9,7 @@ version = "1.1.0"
 
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 29
 
     //资源前缀
 //    resourcePrefix "liji_"
@@ -30,6 +30,10 @@ android {
     //增加lint选项，不加的话下面上传到jCenter有可能会报错
     lintOptions {
         abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
     }
 
 }
@@ -52,9 +56,9 @@ makeJar.dependsOn(build)
 
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.4.0'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:23.4.0'
 
 
 }

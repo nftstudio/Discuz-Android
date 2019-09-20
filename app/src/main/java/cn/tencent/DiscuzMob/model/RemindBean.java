@@ -12,7 +12,7 @@ public class RemindBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"IiUw_2132_","auth":"da4f4wQCkBl4aVP6ZgTchyc128uYTFAgCGYUZhHchFYNhWJgXAD9rGykCOOQbElbxbncB7AU4gAZxPZCV5eX","saltkey":"Qa3BaJKi","member_uid":"1","member_username":"admin","member_avatar":"http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=1&size=small","groupid":"1","formhash":"d749edc6","ismoderator":null,"readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"id":"1","authorid":"1","author":"admin","dateline":"1495769586","message":"你好的额的的的标题这是 &nbsp; 内容这是按时老骥伏枥谁看见都是大力看估计都是空间圣诞快乐估计是都看过山","numbers":"1","vdateline":"2017-5-26 11:33"}],"count":null,"perpage":"15","page":"1"}
+     * Variables : {"cookiepre":"IiUw_2132_","auth":"da4f4wQCkBl4aVP6ZgTchyc128uYTFAgCGYUZhHchFYNhWJgXAD9rGykCOOQbElbxbncB7AU4gAZxPZCV5eX","saltkey":"Qa3BaJKi","member_uid":"1","member_username":"admin","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small","groupid":"1","formhash":"d749edc6","ismoderator":null,"readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"id":"1","authorid":"1","author":"admin","dateline":"1495769586","message":"你好的额的的的标题这是 &nbsp; 内容这是按时老骥伏枥谁看见都是大力看估计都是空间圣诞快乐估计是都看过山","numbers":"1","vdateline":"2017-5-26 11:33"}],"count":null,"perpage":"15","page":"1"}
      */
 
     private String Version;
@@ -50,7 +50,7 @@ public class RemindBean {
          * saltkey : Qa3BaJKi
          * member_uid : 1
          * member_username : admin
-         * member_avatar : http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=1&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
          * groupid : 1
          * formhash : d749edc6
          * ismoderator : null

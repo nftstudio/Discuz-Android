@@ -11,7 +11,7 @@ public class VoterVariables  {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"0"},"viewvote":{"voterlist":[{"uid":"1","email":"admin@admin.com","username":"admin","password":"058e1ac3230d70d2236b808a22049156","status":"0","emailstatus":"0","avatarstatus":"1","videophotostatus":"0","adminid":"1","groupid":"1","groupexpiry":"0","extgroupids":"","regdate":"1558507945","credits":"377","notifysound":"0","timeoffset":"","newpm":"0","newprompt":"5","accessmasks":"0","allowadmincp":"1","onlyacceptfriendpm":"0","conisbind":"0","freeze":"0","avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small"}]}}
+     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"0"},"viewvote":{"voterlist":[{"uid":"1","email":"admin@admin.com","username":"admin","password":"058e1ac3230d70d2236b808a22049156","status":"0","emailstatus":"0","avatarstatus":"1","videophotostatus":"0","adminid":"1","groupid":"1","groupexpiry":"0","extgroupids":"","regdate":"1558507945","credits":"377","notifysound":"0","timeoffset":"","newpm":"0","newprompt":"5","accessmasks":"0","allowadmincp":"1","onlyacceptfriendpm":"0","conisbind":"0","freeze":"0","avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small"}]}}
      */
 
     private String Version;
@@ -49,13 +49,13 @@ public class VoterVariables  {
          * saltkey : uuuY279f
          * member_uid : 1
          * member_username : admin
-         * member_avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
          * groupid : 1
          * formhash : 43112009
          * ismoderator : 1
          * readaccess : 200
          * notice : {"newpush":"0","newpm":"0","newprompt":"5","newmypost":"0"}
-         * viewvote : {"voterlist":[{"uid":"1","email":"admin@admin.com","username":"admin","password":"058e1ac3230d70d2236b808a22049156","status":"0","emailstatus":"0","avatarstatus":"1","videophotostatus":"0","adminid":"1","groupid":"1","groupexpiry":"0","extgroupids":"","regdate":"1558507945","credits":"377","notifysound":"0","timeoffset":"","newpm":"0","newprompt":"5","accessmasks":"0","allowadmincp":"1","onlyacceptfriendpm":"0","conisbind":"0","freeze":"0","avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small"}]}
+         * viewvote : {"voterlist":[{"uid":"1","email":"admin@admin.com","username":"admin","password":"058e1ac3230d70d2236b808a22049156","status":"0","emailstatus":"0","avatarstatus":"1","videophotostatus":"0","adminid":"1","groupid":"1","groupexpiry":"0","extgroupids":"","regdate":"1558507945","credits":"377","notifysound":"0","timeoffset":"","newpm":"0","newprompt":"5","accessmasks":"0","allowadmincp":"1","onlyacceptfriendpm":"0","conisbind":"0","freeze":"0","avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small"}]}
          */
 
         @SerializedName("cookiepre")
@@ -214,7 +214,7 @@ public class VoterVariables  {
                  * onlyacceptfriendpm : 0
                  * conisbind : 0
                  * freeze : 0
-                 * avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small
+                 * avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
                  */
 
                 private String uid;

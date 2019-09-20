@@ -1,4 +1,4 @@
-﻿var HOST="http://wsq.demo.comsenz-service.com/";
+﻿var HOST="https://www.nf12.com/";
 //var HOST="http://bbs.rednet.cn/";
 var isMultiSelected=true;
 var maxChoices=2;
@@ -90,7 +90,7 @@ $(document).ready(function(){
 		$(".thread_details .attachlist img").css({"width":"0px","height":"0px"});
 		$(".thread_details .attachlist").removeAttr("hidden");
 //		var attachlist=JSON.Variables.postlist[0].attchlist;
-		 var str = "http://wsq.demo.comsenz-service.com/";
+		 var str = "https://www.nf12.com/";
          var aid = "";
          var strlist = JSON.Variables.postlist[0].attachments;
                    for(var key in strlist){
@@ -195,7 +195,7 @@ function onLoadReply(JSON,isAppend){
 			li.find("div.P_share div.naTime_02 label.time").html(postlistitem.dateline);
 			li.find("div.P_share div .a").click(function(){discussUser($(this).parents("li").attr("pid"));});
             li.find("div.P_share div .b").click(function(){reportComment($(this).parents("li").attr("pid"));});
-             var commendStr = "http://wsq.demo.comsenz-service.com/";
+             var commendStr = "https://www.nf12.com/";
              var attach = postlistitem.attachments;
              if(!textIsNull(attach)){
                   li.find(".attachlist img").css({"width":"0px","height":"0px"});
@@ -416,7 +416,7 @@ var TEST_JSON={
         "saltkey": "a71EEGZ9",
         "member_uid": "0",
         "member_username": "",
-        "member_avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=0&size=small",
+        "member_avatar": "https://ucenter.nf12.com/avatar.php?uid=0&size=small",
         "groupid": "7",
         "formhash": "83a2b85c",
         "ismoderator": "0",
@@ -488,7 +488,7 @@ var TEST_JSON={
             "recommendlevel": "0",
             "heatlevel": "0",
             "relay": "0",
-            "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=31&size=small",
+            "avatar": "https://ucenter.nf12.com/avatar.php?uid=31&size=small",
             "ordertype": "0",
             "recommend": "0"
         },
@@ -513,15 +513,15 @@ var TEST_JSON={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1431945819",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=31&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=31&size=small",
                 "groupiconid": "admin",
 				"attachlist": [
                     {
-                        "attachurl": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                        "attachurl": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                         "aid": "123"
                     },
 					{
-                        "attachurl": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                        "attachurl": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                         "aid": "123"
                     }
                 ]
@@ -545,15 +545,15 @@ var TEST_JSON={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1431945819",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=31&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=31&size=small",
                 "groupiconid": "admin",
 				"attachlist": [
                     {
-                        "attachurl": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                        "attachurl": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                         "aid": "123"
                     },
 					{
-                        "attachurl": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                        "attachurl": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                         "aid": "123"
                     }
                 ]
@@ -633,7 +633,7 @@ var TEST_JSON_IMG={
         "saltkey": "tjA0BygX",
         "member_uid": "0",
         "member_username": "",
-        "member_avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=0&size=small",
+        "member_avatar": "https://ucenter.nf12.com/avatar.php?uid=0&size=small",
         "groupid": "7",
         "formhash": "a879808d",
         "ismoderator": "0",
@@ -705,7 +705,7 @@ var TEST_JSON_IMG={
             "recommendlevel": "0",
             "heatlevel": "0",
             "relay": "0",
-            "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+            "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
             "ordertype": "0",
             "recommend": "0"
         },
@@ -730,7 +730,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             },
 				 {
@@ -752,7 +752,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             }, {
                 "pid": "255",
@@ -773,7 +773,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             }, {
                 "pid": "255",
@@ -794,7 +794,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             }, {
                 "pid": "255",
@@ -815,7 +815,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             }, {
                 "pid": "255",
@@ -836,7 +836,7 @@ var TEST_JSON_IMG={
                 "memberstatus": "0",
                 "number": "1",
                 "dbdateline": "1435996144",
-                "avatar": "http://iwechat.pm.comsenz-service.com/uc_server/avatar.php?uid=55&size=small",
+                "avatar": "https://ucenter.nf12.com/avatar.php?uid=55&size=small",
                 "groupiconid": "admin"
             }
         ],

@@ -99,7 +99,7 @@ public class ApiVersion5 {
         return mCurrentMode.url;
     }
 
-    public String url1 = "http://10.0.6.58/api/mobile/";
+    public String url1 = "https://www.nf12.com/api/mobile/";
 
     public StringBuilder getStringBuilder() {
 //        return new StringBuilder(url1).append("version=5&debug=1&android=1&");
@@ -504,7 +504,7 @@ public class ApiVersion5 {
         Log.e("全部版块", "url =" + getStringBuilder("4").append("module=forumindex").toString());
         RedNet.mHttpClient.newCall(new Request.Builder()
                 .url(getStringBuilder("4").append("module=forumindex").toString())
-//                .url("http://10.0.6.58/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
+//                .url("https://www.nf12.com/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
                 .cacheControl(readCache ? CacheControl.FORCE_CACHE : CacheControl.FORCE_NETWORK).build())
                 .enqueue(new ExtCallback(resultCallback));
     }
@@ -723,7 +723,7 @@ public class ApiVersion5 {
     public void requestReadingMiniHNGuide(boolean readCache, int page, Result<?> resultCallback) {
         RedNet.mHttpClient.newCall(new Request.Builder()
                 .url("http://bbs.rednet.cn/api/mobile/index.php?module=newpost&version=5&mobiletype=Android&onedigest=1&page=" + page)
-//            .url("http://rednet.pm.comsenz-service.com/api/mobile/index.php?module=newpost&version=5&mobiletype=Android&onedigest=1")
+//            .url("https://www.nf12.com/api/mobile/index.php?module=newpost&version=5&mobiletype=Android&onedigest=1")
 //            .url(getStringBuilder()
 //                .append("module=newpost")
 //                .append("onedigest=1")

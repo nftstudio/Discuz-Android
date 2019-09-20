@@ -29,7 +29,7 @@ public class Api {
 //    public final String URL = "http://bbs.rednet.cn/api/mobile/";
     public final String URL = AppNetConfig.BASEURL;
     //测试环境
-//    public final String URL = "http://rednet.pm.comsenz-service.com/api/mobile/";
+//    public final String URL = "https://www.nf12.com/api/mobile/";
 
     private final String API_VERSION = "&version=4";
     private static final CacheControl NO_STORE = new CacheControl.Builder().noStore().noCache().build();

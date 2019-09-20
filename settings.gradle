@@ -1,1 +1,1 @@
-include ':app', ':sharesdk', ':viewpageindicator', ':citypickerview', ':pullToRefresh1'
+include ':app', ':sharesdk', ':viewpageindicator', ':citypickerview', ':pullToRefresh1', ':'

@@ -11,7 +11,7 @@ public class MyFavForumBean {
     /**
      * Version : 3
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"fe8aq96UbhHOUBdlzHbKBsOh2VHhBm9z6iaYN6IghdQHwUE7tzbiSc9Ovlw79UriJEAum57DMDDJKzUIPBBv","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/avatar.php?uid=7&size=small","groupid":"10","formhash":"77433183","ismoderator":null,"readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"favid":"15","uid":"7","id":"2","idtype":"fid","spaceuid":"0","title":"Discuz!-模板","description":"","dateline":"1492070919","icon":"<img src=\"static/image/feed/discuz.gif\" alt=\"forum\" class=\"t\" /> ","url":"forum.php?mod=forumdisplay&fid=2","threads":"6","posts":"17","todayposts":"3","yesterdayposts":"0"}],"perpage":"20","count":"1"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"fe8aq96UbhHOUBdlzHbKBsOh2VHhBm9z6iaYN6IghdQHwUE7tzbiSc9Ovlw79UriJEAum57DMDDJKzUIPBBv","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=7&size=small","groupid":"10","formhash":"77433183","ismoderator":null,"readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"favid":"15","uid":"7","id":"2","idtype":"fid","spaceuid":"0","title":"Discuz!-模板","description":"","dateline":"1492070919","icon":"<img src=\"static/image/feed/discuz.gif\" alt=\"forum\" class=\"t\" /> ","url":"forum.php?mod=forumdisplay&fid=2","threads":"6","posts":"17","todayposts":"3","yesterdayposts":"0"}],"perpage":"20","count":"1"}
      */
 
     private String Version;
@@ -49,7 +49,7 @@ public class MyFavForumBean {
          * saltkey : CDD8r6eh
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/avatar.php?uid=7&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=7&size=small
          * groupid : 10
          * formhash : 77433183
          * ismoderator : null

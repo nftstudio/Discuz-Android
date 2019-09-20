@@ -11,7 +11,7 @@ public class ForumThreadlistBean {
      * attachment : 2
      * author : admin
      * authorid : 1
-     * avatar : http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=1&size=small
+     * avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
      * cover : []
      * dateline : 2017-5-26
      * dbdateline : 1495781858

@@ -12,7 +12,7 @@ public class LiveThredBean {
 
     /**
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","formhash":"93d38bde","groupiconid":{"2":"admin"},"groupid":"7","ismoderator":"","livethread_list":[{"attachment":"2","author":"大皮特","authorid":"2","avatar":"http://10.0.6.58/uc_server/avatar.php?uid=2&size=big","bgcolor":"","blueprint":"0","closed":"0","comments":"0","cover":"0","dateline":"1493092355","digest":"1","displayorder":"1","favtimes":"7","fid":"2","forumnames":{"fid":"2","name":"Discuz!-模板"},"heats":"4","hidden":"0","highlight":"0","icon":"-1","isgroup":"0","lastpost":"1494488038","lastposter":"admin","maxposition":"19","moderated":"1","posttableid":"0","price":"0","pushedaid":"0","rate":"0","readperm":"0","recommend_add":"2","recommend_sub":"0","recommends":"2","relatebytag":"0","replies":"18","replycredit":"0","sharetimes":"0","sortid":"0","special":"0","stamp":"-1","status":"3104","stickreply":"0","subject":"麻辣小龙虾","tid":"46","typeid":"0","views":"196"}],"member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/00_avatar_small.jpg","member_conisbind":"0","member_loginstatus":"0","member_uid":"0","member_username":"","member_weixinisbind":"0","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"1","saltkey":"I9l9D9dP"}
+     * Variables : {"cookiepre":"68nN_2132_","formhash":"93d38bde","groupiconid":{"2":"admin"},"groupid":"7","ismoderator":"","livethread_list":[{"attachment":"2","author":"大皮特","authorid":"2","avatar":"https://ucenter.nf12.com/avatar.php?uid=2&size=big","bgcolor":"","blueprint":"0","closed":"0","comments":"0","cover":"0","dateline":"1493092355","digest":"1","displayorder":"1","favtimes":"7","fid":"2","forumnames":{"fid":"2","name":"Discuz!-模板"},"heats":"4","hidden":"0","highlight":"0","icon":"-1","isgroup":"0","lastpost":"1494488038","lastposter":"admin","maxposition":"19","moderated":"1","posttableid":"0","price":"0","pushedaid":"0","rate":"0","readperm":"0","recommend_add":"2","recommend_sub":"0","recommends":"2","relatebytag":"0","replies":"18","replycredit":"0","sharetimes":"0","sortid":"0","special":"0","stamp":"-1","status":"3104","stickreply":"0","subject":"麻辣小龙虾","tid":"46","typeid":"0","views":"196"}],"member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/00_avatar_small.jpg","member_conisbind":"0","member_loginstatus":"0","member_uid":"0","member_username":"","member_weixinisbind":"0","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"1","saltkey":"I9l9D9dP"}
      * Version : 5
      */
 
@@ -51,8 +51,8 @@ public class LiveThredBean {
          * groupiconid : {"2":"admin"}
          * groupid : 7
          * ismoderator :
-         * livethread_list : [{"attachment":"2","author":"大皮特","authorid":"2","avatar":"http://10.0.6.58/uc_server/avatar.php?uid=2&size=big","bgcolor":"","blueprint":"0","closed":"0","comments":"0","cover":"0","dateline":"1493092355","digest":"1","displayorder":"1","favtimes":"7","fid":"2","forumnames":{"fid":"2","name":"Discuz!-模板"},"heats":"4","hidden":"0","highlight":"0","icon":"-1","isgroup":"0","lastpost":"1494488038","lastposter":"admin","maxposition":"19","moderated":"1","posttableid":"0","price":"0","pushedaid":"0","rate":"0","readperm":"0","recommend_add":"2","recommend_sub":"0","recommends":"2","relatebytag":"0","replies":"18","replycredit":"0","sharetimes":"0","sortid":"0","special":"0","stamp":"-1","status":"3104","stickreply":"0","subject":"麻辣小龙虾","tid":"46","typeid":"0","views":"196"}]
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/00_avatar_small.jpg
+         * livethread_list : [{"attachment":"2","author":"大皮特","authorid":"2","avatar":"https://ucenter.nf12.com/avatar.php?uid=2&size=big","bgcolor":"","blueprint":"0","closed":"0","comments":"0","cover":"0","dateline":"1493092355","digest":"1","displayorder":"1","favtimes":"7","fid":"2","forumnames":{"fid":"2","name":"Discuz!-模板"},"heats":"4","hidden":"0","highlight":"0","icon":"-1","isgroup":"0","lastpost":"1494488038","lastposter":"admin","maxposition":"19","moderated":"1","posttableid":"0","price":"0","pushedaid":"0","rate":"0","readperm":"0","recommend_add":"2","recommend_sub":"0","recommends":"2","relatebytag":"0","replies":"18","replycredit":"0","sharetimes":"0","sortid":"0","special":"0","stamp":"-1","status":"3104","stickreply":"0","subject":"麻辣小龙虾","tid":"46","typeid":"0","views":"196"}]
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/00_avatar_small.jpg
          * member_conisbind : 0
          * member_loginstatus : 0
          * member_uid : 0
@@ -267,7 +267,7 @@ public class LiveThredBean {
              * attachment : 2
              * author : 大皮特
              * authorid : 2
-             * avatar : http://10.0.6.58/uc_server/avatar.php?uid=2&size=big
+             * avatar : https://ucenter.nf12.com/avatar.php?uid=2&size=big
              * bgcolor :
              * blueprint : 0
              * closed : 0

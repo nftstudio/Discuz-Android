@@ -11,7 +11,7 @@ public class PollPotionVariables extends BaseVariables {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"0"},"viewvote":{"polloptions":[{"polloptionid":"63","tid":"276","votes":"1","displayorder":"0","polloption":"Shdhdhdh","voterids":"1\t"},{"polloptionid":"64","tid":"276","votes":"0","displayorder":"0","polloption":"Dudhdhdhdh","voterids":""}]}}
+     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"0"},"viewvote":{"polloptions":[{"polloptionid":"63","tid":"276","votes":"1","displayorder":"0","polloption":"Shdhdhdh","voterids":"1\t"},{"polloptionid":"64","tid":"276","votes":"0","displayorder":"0","polloption":"Dudhdhdhdh","voterids":""}]}}
      */
 
     private String Version;
@@ -49,7 +49,7 @@ public class PollPotionVariables extends BaseVariables {
          * saltkey : uuuY279f
          * member_uid : 1
          * member_username : admin
-         * member_avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
          * groupid : 1
          * formhash : 43112009
          * ismoderator : 1

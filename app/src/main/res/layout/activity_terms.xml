@@ -45,7 +45,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:gravity="center_horizontal"
-                android:text="掌上论坛用户协议"
+                android:text="逆风拾贰工作室用户协议"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 

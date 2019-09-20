@@ -1,6 +1,6 @@
-//var HOST="http://rednet.pm.comsenz-service.com/";
+//var HOST="https://www.nf12.com/";
 //var HOST="http://bbs.rednet.cn/";
-var HOST="http://10.0.6.58/";
+var HOST="https://www.nf12.com/";
 var	is2GOr3GLoadImgs=true;//2/3G网络是否加载图片
 
 $(document).ready(function(){
@@ -73,7 +73,7 @@ function onRefresh(JSON){
 		});
 
 		if(!textIsNull(JSON.Variables.postlist[0].attachments)){ //帖子图片附件
-           var str = "http://wsq.demo.comsenz-service.com/";
+           var str = "https://www.nf12.com/";
            var aid = "";
          var strlist = JSON.Variables.postlist[0].attachments;
            $(".thread_details .attachlist").removeAttr("hidden");
@@ -217,7 +217,7 @@ function onLoadReply(JSON,isAppend){
             ul.removeAttr("hidden");
             ul.append(li);
             $(".thread_reply .attachlist").removeAttr("hidden");
-			 var commendStr = "http://wsq.demo.comsenz-service.com/";
+			 var commendStr = "https://www.nf12.com/";
             var attach = postlistitem.attachments;
             if(!textIsNull(attach)){
                  li.find(".attachlist").removeAttr("hidden");
@@ -389,7 +389,7 @@ var TEST_THREAD_JSON={
                              "saltkey": "VaA57XA4",
                              "member_uid": "0",
                              "member_username": "",
-                             "member_avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/00/00/00_avatar_small.jpg",
+                             "member_avatar": "https://ucenter.nf12.com/data/avatar/000/00/00/00_avatar_small.jpg",
                              "groupid": "7",
                              "formhash": "a2401daa",
                              "ismoderator": "0",
@@ -502,7 +502,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7997618",
@@ -527,7 +527,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7997714",
@@ -552,7 +552,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7997954",
@@ -577,7 +577,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7998480",
@@ -602,7 +602,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "版主",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/15/21/66_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/15/21/66_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7998481",
@@ -627,7 +627,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "版主",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/15/21/66_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/15/21/66_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7998485",
@@ -652,7 +652,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "版主",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/15/21/66_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/15/21/66_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7998894",
@@ -677,7 +677,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7998917",
@@ -702,7 +702,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  },
                                  {
                                      "pid": "7999172",
@@ -727,7 +727,7 @@ var TEST_THREAD_JSON={
                                      "attachlist": [],
                                      "imagelist": [],
                                      "groupiconid": "梅里雪山级会员",
-                                     "avatar": "http://www.jinbifun.com/uc_server/data/avatar/000/33/17/28_avatar_small.jpg"
+                                     "avatar": "https://ucenter.nf12.com/data/avatar/000/33/17/28_avatar_small.jpg"
                                  }
                              ],
                              "allowpostcomment": [],

@@ -11,9 +11,9 @@ import cn.tencent.DiscuzMob.utils.Tools;
 public class Config {
 
     //    public static final String APPNAME = "rednet";
-    public static final String APPNAME = "掌上论坛";
+    public static final String APPNAME = "逆风拾贰工作室";
     public static String HOST = Api.getInstance().URL;
-    //public static String HOST="http://rednet.pm.comsenz-service.com";
+    //public static String HOST="https://www.nf12.com";
     public static String SDCARD_PATH = Tools.getSDPath() + "/" + APPNAME + "/";
     public static String LOCAL_DOWNLOAD_IMAGE_PATH = SDCARD_PATH + "img/";
     public static String LOCAL_DOWNLOAD_CACHE_PATH = SDCARD_PATH + "cache/";

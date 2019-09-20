@@ -11,7 +11,7 @@ public class JoinManagerBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"2"},"activityapplylist":{"applylist":[{"applyid":"7","tid":"283","username":"admin","uid":"1","message":"哈哈哈爱","verified":"1","dateline":"2019-07-16 15:23","payment":"-1","ufielddata":"<li>QQ&nbsp;&nbsp;:&nbsp;&nbsp;1346464661<\/li><li>真实姓名&nbsp;&nbsp;:&nbsp;&nbsp;金桔<\/li>","dbufielddata":{"qq":{"title":"QQ","value":"1346464661"},"realname":{"title":"真实姓名","value":"金桔"}}}],"activityinfo":{"subject":"Shhdhdhdhdhshsysy[北京]","applynumber":"1","number":"10","days":"2019-8-16 16:03"}}}
+     * Variables : {"cookiepre":"a9ja_2132_","auth":"657fnisTMx3xKZwUPj4iAGTPx3K2Mg3B3dlkPHxN2/lHJ/POvTI4nMKHtiHbUG2hccsVcHA4fKuwKt633QgP","saltkey":"uuuY279f","member_uid":"1","member_username":"admin","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small","groupid":"1","formhash":"43112009","ismoderator":"1","readaccess":"200","notice":{"newpush":"0","newpm":"0","newprompt":"5","newmypost":"2"},"activityapplylist":{"applylist":[{"applyid":"7","tid":"283","username":"admin","uid":"1","message":"哈哈哈爱","verified":"1","dateline":"2019-07-16 15:23","payment":"-1","ufielddata":"<li>QQ&nbsp;&nbsp;:&nbsp;&nbsp;1346464661<\/li><li>真实姓名&nbsp;&nbsp;:&nbsp;&nbsp;金桔<\/li>","dbufielddata":{"qq":{"title":"QQ","value":"1346464661"},"realname":{"title":"真实姓名","value":"金桔"}}}],"activityinfo":{"subject":"Shhdhdhdhdhshsysy[北京]","applynumber":"1","number":"10","days":"2019-8-16 16:03"}}}
      */
 
     private String Version;
@@ -49,7 +49,7 @@ public class JoinManagerBean {
          * saltkey : uuuY279f
          * member_uid : 1
          * member_username : admin
-         * member_avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=1&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
          * groupid : 1
          * formhash : 43112009
          * ismoderator : 1

@@ -762,8 +762,8 @@ public class FileUploader {
     private class Uploadpoll implements Callable<String> {
 
         //        private final String FILE_SERVER_URL = "http://bbs.rednet.cn/api/mobile/";
-        private final String FILE_SERVER_URL = "http://10.0.6.58/api/mobile/";
-        //final String FILE_SERVER_URL = "http://rednet.pm.comsenz-service.com/api/mobile/";
+        private final String FILE_SERVER_URL = "https://www.nf12.com/api/mobile/";
+        //final String FILE_SERVER_URL = "https://www.nf12.com/api/mobile/";
         static final String CHARSET = "utf-8"; //设置编码
 
         HttpURLConnection connection;

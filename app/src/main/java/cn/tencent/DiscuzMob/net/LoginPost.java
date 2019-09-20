@@ -42,7 +42,7 @@ public class LoginPost implements Runnable {
 //    private final String URL = "http://bbs.rednet.cn/api/mobile/";
     private final String URL = AppNetConfig.BASEURL;
     //测试环境
-//    private final String URL = "http://rednet.pm.comsenz-service.com/api/mobile/";
+//    private final String URL = "https://www.nf12.com/api/mobile/";
 
     private HashMap<String, String> params;
 

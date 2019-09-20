@@ -13,7 +13,7 @@ public class MessageRepliesBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"992fi93VI7+oa4zEIYdqWD7tVY9MJU63hwAtv+VR6JFYbtZztRzjlWVKTghWHwol4AKmF+y7Uhv4i6UcdDVO","saltkey":"czG6FoYg","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"26f3cbb0","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"id":"30","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 测试回复 &nbsp; 查看","dateline":"1492589242","from_id":"30","from_idtype":"post","from_num":"0","category":"1","special":"0"},{"id":"36","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 我的主題 &nbsp; 查看","dateline":"1492675193","from_id":"96","from_idtype":"quote","from_num":"0","category":"1","special":null},{"id":"40","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 有啥的的少时诵诗书所 &nbsp; 查看","dateline":"1492680005","from_id":"103","from_idtype":"quote","from_num":"0","category":"1","special":null},{"id":"43","uid":"7","type":"post","new":"0","authorid":"2","author":"大皮特","note":"大皮特 回复了您的帖子 主题测试 &nbsp; 查看","dateline":"1493001818","from_id":"32","from_idtype":"post","from_num":"0","category":"1","special":"0"}],"count":"1"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"992fi93VI7+oa4zEIYdqWD7tVY9MJU63hwAtv+VR6JFYbtZztRzjlWVKTghWHwol4AKmF+y7Uhv4i6UcdDVO","saltkey":"czG6FoYg","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"26f3cbb0","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"id":"30","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 测试回复 &nbsp; 查看","dateline":"1492589242","from_id":"30","from_idtype":"post","from_num":"0","category":"1","special":"0"},{"id":"36","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 我的主題 &nbsp; 查看","dateline":"1492675193","from_id":"96","from_idtype":"quote","from_num":"0","category":"1","special":null},{"id":"40","uid":"7","type":"post","new":"0","authorid":"10","author":"陈国1","note":"陈国1 回复了您的帖子 有啥的的少时诵诗书所 &nbsp; 查看","dateline":"1492680005","from_id":"103","from_idtype":"quote","from_num":"0","category":"1","special":null},{"id":"43","uid":"7","type":"post","new":"0","authorid":"2","author":"大皮特","note":"大皮特 回复了您的帖子 主题测试 &nbsp; 查看","dateline":"1493001818","from_id":"32","from_idtype":"post","from_num":"0","category":"1","special":"0"}],"count":"1"}
      */
 
     private String Version;
@@ -51,7 +51,7 @@ public class MessageRepliesBean {
          * saltkey : czG6FoYg
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg
          * member_conisbind : 0
          * member_weixinisbind : 0
          * member_loginstatus : 0

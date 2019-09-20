@@ -11,7 +11,7 @@ public class MyFavThreadBean {
     /**
      * Version : 1
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"fe8aq96UbhHOUBdlzHbKBsOh2VHhBm9z6iaYN6IghdQHwUE7tzbiSc9Ovlw79UriJEAum57DMDDJKzUIPBBv","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/avatar.php?uid=7&size=small","groupid":"10","formhash":"77433183","ismoderator":null,"readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"favid":"29","uid":"7","id":"22","idtype":"tid","spaceuid":"0","title":"如何如何","description":"","dateline":"1492500832","icon":"<img src=\"static/image/feed/thread.gif\" alt=\"thread\" class=\"t\" /> ","url":"forum.php?mod=viewthread&tid=22","replies":"1","author":"大皮特"}],"perpage":"20","count":"1"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"fe8aq96UbhHOUBdlzHbKBsOh2VHhBm9z6iaYN6IghdQHwUE7tzbiSc9Ovlw79UriJEAum57DMDDJKzUIPBBv","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=7&size=small","groupid":"10","formhash":"77433183","ismoderator":null,"readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"list":[{"favid":"29","uid":"7","id":"22","idtype":"tid","spaceuid":"0","title":"如何如何","description":"","dateline":"1492500832","icon":"<img src=\"static/image/feed/thread.gif\" alt=\"thread\" class=\"t\" /> ","url":"forum.php?mod=viewthread&tid=22","replies":"1","author":"大皮特"}],"perpage":"20","count":"1"}
      */
 
     private String Version;
@@ -49,7 +49,7 @@ public class MyFavThreadBean {
          * saltkey : CDD8r6eh
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/avatar.php?uid=7&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=7&size=small
          * groupid : 10
          * formhash : 77433183
          * ismoderator : null

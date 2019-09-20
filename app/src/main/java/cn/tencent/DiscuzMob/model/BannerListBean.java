@@ -10,14 +10,14 @@ public class BannerListBean {
 
     /**
      * siteName : Discuz! Board
-     * siteUrl : http://bbs.wsq.comsenz-service.com/newwsq/
-     * ucenterurl : http://bbs.wsq.comsenz-service.com/newwsq/uc_server
+     * siteUrl : https://www.nf12.com/
+     * ucenterurl : https://ucenter.nf12.com
      * version : X3.3
      * siteLogo : static/image/common/logo.png
-     * apiUrl : http://bbs.wsq.comsenz-service.com/newwsq/api/mobile/
+     * apiUrl : https://www.nf12.com/api/mobile/
      * cookie : {"cookiepre":"IiUw_2132_","cookiedomain":"","cookiepath":"/"}
      * loginSeccode : 1
-     * iweset : {"iwechat_allow":"1","iwechat_forumdisplay_reply":"0","iwechat_allowregister":"1","iwechat_allowfastregister":"0","iwechat_disableregrule":"1","iwechat_confirmtype":"0","iwechat_newusergroupid":"","iwechat_mtype":"2","recommend":[{"title":"12123","link":"124124","imagefile":false,"imageurl":"http://bbs.wsq.comsenz-service.com/newwsq/static/image/admincp/logo.gif"},{"title":"asdfasdf","link":"adsfasdf","imagefile":false,"imageurl":"http://bbs.wsq.comsenz-service.com/newwsq/static/image/common/logo.png"}]}
+     * iweset : {"iwechat_allow":"1","iwechat_forumdisplay_reply":"0","iwechat_allowregister":"1","iwechat_allowfastregister":"0","iwechat_disableregrule":"1","iwechat_confirmtype":"0","iwechat_newusergroupid":"","iwechat_mtype":"2","recommend":[{"title":"12123","link":"124124","imagefile":false,"imageurl":"https://www.nf12.com/static/image/admincp/logo.gif"},{"title":"asdfasdf","link":"adsfasdf","imagefile":false,"imageurl":"https://www.nf12.com/static/image/common/logo.png"}]}
      */
 
     private String siteName;
@@ -148,7 +148,7 @@ public class BannerListBean {
          * iwechat_confirmtype : 0
          * iwechat_newusergroupid :
          * iwechat_mtype : 2
-         * recommend : [{"title":"12123","link":"124124","imagefile":false,"imageurl":"http://bbs.wsq.comsenz-service.com/newwsq/static/image/admincp/logo.gif"},{"title":"asdfasdf","link":"adsfasdf","imagefile":false,"imageurl":"http://bbs.wsq.comsenz-service.com/newwsq/static/image/common/logo.png"}]
+         * recommend : [{"title":"12123","link":"124124","imagefile":false,"imageurl":"https://www.nf12.com/static/image/admincp/logo.gif"},{"title":"asdfasdf","link":"adsfasdf","imagefile":false,"imageurl":"https://www.nf12.com/static/image/common/logo.png"}]
          */
 
         private String iwechat_allow;
@@ -238,7 +238,7 @@ public class BannerListBean {
              * title : 12123
              * link : 124124
              * imagefile : false
-             * imageurl : http://bbs.wsq.comsenz-service.com/newwsq/static/image/admincp/logo.gif
+             * imageurl : https://www.nf12.com/static/image/admincp/logo.gif
              */
 
             private String title;

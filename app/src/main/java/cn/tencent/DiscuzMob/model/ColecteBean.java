@@ -9,7 +9,7 @@ public class ColecteBean {
     /**
      * Version : 1
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"0da8LI/BnjvTJmwP8x63dsaH/0Tt6ZzMqW3qJB7cUcuMW7lL7cwfdh/iXliBsKmSU1lPJbo+7JlcYbPDHPvu","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"77433183","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"}}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"0da8LI/BnjvTJmwP8x63dsaH/0Tt6ZzMqW3qJB7cUcuMW7lL7cwfdh/iXliBsKmSU1lPJbo+7JlcYbPDHPvu","saltkey":"CDD8r6eh","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"77433183","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"}}
      * Message : {"messageval":"favorite_repeat","messagestr":"抱歉，您已收藏，请勿重复收藏"}
      */
 
@@ -57,7 +57,7 @@ public class ColecteBean {
          * saltkey : CDD8r6eh
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg
          * member_conisbind : 0
          * member_weixinisbind : 0
          * member_loginstatus : 0

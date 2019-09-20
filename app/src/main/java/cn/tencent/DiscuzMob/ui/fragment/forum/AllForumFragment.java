@@ -94,7 +94,7 @@ public class AllForumFragment extends BaseFragment implements AdapterView.OnItem
 //        mAdapter.notifyDataSetChanged();
 //        OkHttpUtils
 //                .get()
-//                .url("http://10.0.6.58/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
+//                .url("https://www.nf12.com/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
 //                .build()
 //                .execute(new StringCallback() {
 //                    @Override
@@ -165,7 +165,7 @@ public class AllForumFragment extends BaseFragment implements AdapterView.OnItem
     public void onRefresh() {
 //        OkHttpUtils
 //                .get()
-//                .url("http://10.0.6.58/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
+//                .url("https://www.nf12.com/api/mobile/?module=forumindex&version=4&debug=1&mobiletype=IOS")
 //                .build()
 //                .execute(new StringCallback() {
 //                    @Override

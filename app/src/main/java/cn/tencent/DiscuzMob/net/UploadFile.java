@@ -18,7 +18,7 @@ import cn.tencent.DiscuzMob.utils.Tools;
 public class UploadFile implements Runnable {
 
     private final String FILE_SERVER_URL ="http://bbs.rednet.cn/api/mobile/";
-    //private final String FILE_SERVER_URL = "http://rednet.pm.comsenz-service.com/api/mobile/";
+    //private final String FILE_SERVER_URL = "https://www.nf12.com/api/mobile/";
 
     private HttpURLConnection connection = null;
     private DataOutputStream outputStream = null;

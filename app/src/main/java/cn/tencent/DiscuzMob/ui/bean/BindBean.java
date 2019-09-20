@@ -7,7 +7,7 @@ public class BindBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"a9ja_2132_","auth":"55673BT+44CsFR2DCJsMbC8QsIFORrb3HNGR7zRMp+2Sgbdc8NKr/8KgfzCyVNlBHim24EdIhm891kuRyenoyQ","saltkey":"Zp1ZAUDP","member_uid":"49","member_username":"a943456249","member_avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=49&size=small","groupid":"10","formhash":"1e1cc71d","ismoderator":null,"readaccess":"15","notice":{"newpush":"0","newpm":"0","newprompt":"1","newmypost":"0"},"users":[{"uid":"49","openid":"2702BB6AACDF0C4024C854C9E0961FB7","status":"1","session_key":"","type":"qq"},{"uid":"49","openid":"oav0n0bOUXuUlusDQOrBDdhekK4w","status":"1","session_key":"","type":"weixin"},{"uid":"49","openid":"","status":"0","session_key":"","type":"minapp"}]}
+     * Variables : {"cookiepre":"a9ja_2132_","auth":"55673BT+44CsFR2DCJsMbC8QsIFORrb3HNGR7zRMp+2Sgbdc8NKr/8KgfzCyVNlBHim24EdIhm891kuRyenoyQ","saltkey":"Zp1ZAUDP","member_uid":"49","member_username":"a943456249","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=49&size=small","groupid":"10","formhash":"1e1cc71d","ismoderator":null,"readaccess":"15","notice":{"newpush":"0","newpm":"0","newprompt":"1","newmypost":"0"},"users":[{"uid":"49","openid":"2702BB6AACDF0C4024C854C9E0961FB7","status":"1","session_key":"","type":"qq"},{"uid":"49","openid":"oav0n0bOUXuUlusDQOrBDdhekK4w","status":"1","session_key":"","type":"weixin"},{"uid":"49","openid":"","status":"0","session_key":"","type":"minapp"}]}
      */
 
     private String Version;
@@ -45,7 +45,7 @@ public class BindBean {
          * saltkey : Zp1ZAUDP
          * member_uid : 49
          * member_username : a943456249
-         * member_avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=49&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=49&size=small
          * groupid : 10
          * formhash : 1e1cc71d
          * ismoderator : null

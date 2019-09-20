@@ -1,6 +1,6 @@
-//var HOST="http://rednet.pm.comsenz-service.com/";
+//var HOST="https://www.nf12.com/";
 //var HOST="http://bbs.rednet.cn/";
-var HOST="http://10.0.6.58/";
+var HOST="https://www.nf12.com/";
 var	is2GOr3GLoadImgs=true;//2/3G网络是否加载图片
 
 $(document).ready(function(){
@@ -35,7 +35,7 @@ function onRefresh(JSON){
            var author =JSON.Variables.list[i].author;
            var attach =JSON.Variables.list[i].imagelists;
            var authorId = JSON.Variables.list[i].authorid;
-           var commendStr = "http://bbs.wsq.comsenz-service.com/newwsq/";
+           var commendStr = "https://www.nf12.com/";
            var append_img_box = '';
            if(!textIsNull(attach)){
                 append_img_box = append_img_box + "<div class='postImgBox'>";
@@ -104,7 +104,7 @@ function onLoadReply(JSON,isAppend){
               var author =JSON.Variables.list[i].author;
               var attach =JSON.Variables.list[i].imagelists;
               var authorId = JSON.Variables.list[i].authorid;
-              var commendStr = "http://bbs.wsq.comsenz-service.com/newwsq/";
+              var commendStr = "https://www.nf12.com/";
               var append_img_box = '';
               if(!textIsNull(attach)){
                    append_img_box = append_img_box + "<div class='postImgBox'>";

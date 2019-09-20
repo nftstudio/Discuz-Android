@@ -10,7 +10,7 @@ public class SendActivityBean {
     /**
      * Charset : UTF-8
      * Message : {"messagestr":"非常感谢，您的主题已发布，现在将转入主题页，请稍候\u2026\u2026[ 点击这里转入主题列表 ]","messageval":"post_newthread_succeed"}
-     * Variables : {"auth":"af0dK1yzh7UsIGTdslFuFSYEW+1wO6VVQeWNY+03hLNfmt+pV7XwYDm/VUjUQiBU0G9nlb5/lHkj2Aa8N5VZ","cookiepre":"IiUw_2132_","formhash":"00778f33","groupid":"1","ismoderator":"1","member_avatar":"http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=1&size=small","member_uid":"1","member_username":"admin","notice":{"newmypost":"0","newpm":"0","newprompt":"1","newpush":"0"},"pid":"188","readaccess":"200","saltkey":"HrkQ8rr9","tid":"83"}
+     * Variables : {"auth":"af0dK1yzh7UsIGTdslFuFSYEW+1wO6VVQeWNY+03hLNfmt+pV7XwYDm/VUjUQiBU0G9nlb5/lHkj2Aa8N5VZ","cookiepre":"IiUw_2132_","formhash":"00778f33","groupid":"1","ismoderator":"1","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=1&size=small","member_uid":"1","member_username":"admin","notice":{"newmypost":"0","newpm":"0","newprompt":"1","newpush":"0"},"pid":"188","readaccess":"200","saltkey":"HrkQ8rr9","tid":"83"}
      * Version : 5
      */
 
@@ -84,7 +84,7 @@ public class SendActivityBean {
          * formhash : 00778f33
          * groupid : 1
          * ismoderator : 1
-         * member_avatar : http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=1&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=1&size=small
          * member_uid : 1
          * member_username : admin
          * notice : {"newmypost":"0","newpm":"0","newprompt":"1","newpush":"0"}

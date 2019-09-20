@@ -9,7 +9,7 @@ public class SendVoteThreadBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"9b339sxNmc6gYPbkUoewV4bDfWFZckms1XTw9e/6obfZOdZ+Q17c2sUCg9echh+hDObjYaA1psNCw1RXPlcR","saltkey":"iHU2shN2","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"11","formhash":"01f2d8b8","ismoderator":"","readaccess":"20","notice":{"newpush":"0","newpm":"0","newprompt":"1","newmypost":"0"},"tid":"64","pid":"144"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"9b339sxNmc6gYPbkUoewV4bDfWFZckms1XTw9e/6obfZOdZ+Q17c2sUCg9echh+hDObjYaA1psNCw1RXPlcR","saltkey":"iHU2shN2","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"11","formhash":"01f2d8b8","ismoderator":"","readaccess":"20","notice":{"newpush":"0","newpm":"0","newprompt":"1","newmypost":"0"},"tid":"64","pid":"144"}
      * Message : {"messageval":"post_newthread_succeed","messagestr":"非常感谢，您的主题已发布，现在将转入主题页，请稍候\u2026\u2026[ 点击这里转入主题列表 ]"}
      */
 
@@ -57,7 +57,7 @@ public class SendVoteThreadBean {
          * saltkey : iHU2shN2
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg
          * member_conisbind : 0
          * member_weixinisbind : 0
          * member_loginstatus : 0

@@ -11,7 +11,7 @@ public class HisThemeBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"77fatoWU1reQSk1P+FbB2m+gbTnfW6RvK9oE/6ZAGuJ9Yuf3cFYO933qCvLH6sAeOF2m+CQutCAHH2KLLQYy","saltkey":"XRN7K27a","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"6e48ffb2","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"threadlist":[{"tid":"34","fid":"36","author":"陈国1","authorid":"10","subject":"我的主題","dateline":"2017-4-20","lastpost":"半小时前","lastposter":"陈国1","views":"3","replies":"0","special":"0","attachment":"0","closed":"0","forumname":"Discuz!-插件"}],"tpp":"20","page":"1","listcount":"1"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"77fatoWU1reQSk1P+FbB2m+gbTnfW6RvK9oE/6ZAGuJ9Yuf3cFYO933qCvLH6sAeOF2m+CQutCAHH2KLLQYy","saltkey":"XRN7K27a","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"6e48ffb2","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"threadlist":[{"tid":"34","fid":"36","author":"陈国1","authorid":"10","subject":"我的主題","dateline":"2017-4-20","lastpost":"半小时前","lastposter":"陈国1","views":"3","replies":"0","special":"0","attachment":"0","closed":"0","forumname":"Discuz!-插件"}],"tpp":"20","page":"1","listcount":"1"}
      */
 
     private String Version;
@@ -49,7 +49,7 @@ public class HisThemeBean {
          * saltkey : XRN7K27a
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg
          * member_conisbind : 0
          * member_weixinisbind : 0
          * member_loginstatus : 0

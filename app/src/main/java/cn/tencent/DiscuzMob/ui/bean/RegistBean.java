@@ -5,7 +5,7 @@ public class RegistBean {
     /**
      * Version : 5
      * Charset : UTF-8
-     * Variables : {"cookiepre":"a9ja_2132_","auth":null,"saltkey":"gv3V35DP","member_uid":"0","member_username":"","member_avatar":"https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=0&size=small","groupid":"7","formhash":"f7bca3cd","ismoderator":null,"readaccess":"1","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"reginput":{"username":"mkP314","password":"PYW7SA","password2":"H2ZP92","email":"GVT6p5"}}
+     * Variables : {"cookiepre":"a9ja_2132_","auth":null,"saltkey":"gv3V35DP","member_uid":"0","member_username":"","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=0&size=small","groupid":"7","formhash":"f7bca3cd","ismoderator":null,"readaccess":"1","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"reginput":{"username":"mkP314","password":"PYW7SA","password2":"H2ZP92","email":"GVT6p5"}}
      */
 
     private String Version;
@@ -43,7 +43,7 @@ public class RegistBean {
          * saltkey : gv3V35DP
          * member_uid : 0
          * member_username :
-         * member_avatar : https://guanjia.comsenz-service.com/uc_server/avatar.php?uid=0&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=0&size=small
          * groupid : 7
          * formhash : f7bca3cd
          * ismoderator : null

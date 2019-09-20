@@ -13,7 +13,7 @@ public class UserThreadsBean  {
     /**
      * Version : 1
      * Charset : UTF-8
-     * Variables : {"cookiepre":"68nN_2132_","auth":"210033DE923ZUuD3vLjFx8vNp5xLQN3jWDruxXDiOmXBFvTLjf8eBb1RdH9joRImVpODkG1pqhAeX1nwNhzw","saltkey":"ffdWpIFf","member_uid":"7","member_username":"陈国","member_avatar":"http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"a359a2a5","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"data":[{"tid":"30","fid":"2","posttableid":"0","typeid":"0","sortid":"0","readperm":"0","price":"0","author":"陈国","authorid":"7","subject":"测试回复","dateline":"1&nbsp;小时前","lastpost":"半小时前","lastposter":"陈国1","views":"6","replies":"2","displayorder":"0","highlight":"","digest":"0","rate":"0","special":"0","attachment":"0","moderated":"0","closed":"0","stickreply":"0","recommends":"0","recommend_add":"0","recommend_sub":"0","heats":"1","status":"32","isgroup":"0","favtimes":"0","sharetimes":"0","stamp":"-1","icon":"20","pushedaid":"0","cover":"0","replycredit":"0","relatebytag":"0","maxposition":"3","bgcolor":"","comments":"0","hidden":"0","blueprint":"0","lastposterenc":"%E9%99%88%E5%9B%BD1","multipage":"","recommendicon":"","new":"0","heatlevel":"0","moved":"0","icontid":"30","folder":"common","weeknew":"","istoday":"1","dbdateline":"1492585773","dblastpost":"1492589242","id":"normalthread_30","rushreply":"0"}],"perpage":"50"}
+     * Variables : {"cookiepre":"68nN_2132_","auth":"210033DE923ZUuD3vLjFx8vNp5xLQN3jWDruxXDiOmXBFvTLjf8eBb1RdH9joRImVpODkG1pqhAeX1nwNhzw","saltkey":"ffdWpIFf","member_uid":"7","member_username":"陈国","member_avatar":"https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg","member_conisbind":"0","member_weixinisbind":"0","member_loginstatus":"0","groupid":"10","formhash":"a359a2a5","ismoderator":"","readaccess":"10","notice":{"newpush":"0","newpm":"0","newprompt":"0","newmypost":"0"},"data":[{"tid":"30","fid":"2","posttableid":"0","typeid":"0","sortid":"0","readperm":"0","price":"0","author":"陈国","authorid":"7","subject":"测试回复","dateline":"1&nbsp;小时前","lastpost":"半小时前","lastposter":"陈国1","views":"6","replies":"2","displayorder":"0","highlight":"","digest":"0","rate":"0","special":"0","attachment":"0","moderated":"0","closed":"0","stickreply":"0","recommends":"0","recommend_add":"0","recommend_sub":"0","heats":"1","status":"32","isgroup":"0","favtimes":"0","sharetimes":"0","stamp":"-1","icon":"20","pushedaid":"0","cover":"0","replycredit":"0","relatebytag":"0","maxposition":"3","bgcolor":"","comments":"0","hidden":"0","blueprint":"0","lastposterenc":"%E9%99%88%E5%9B%BD1","multipage":"","recommendicon":"","new":"0","heatlevel":"0","moved":"0","icontid":"30","folder":"common","weeknew":"","istoday":"1","dbdateline":"1492585773","dblastpost":"1492589242","id":"normalthread_30","rushreply":"0"}],"perpage":"50"}
      */
 
     private String Version;
@@ -51,7 +51,7 @@ public class UserThreadsBean  {
          * saltkey : ffdWpIFf
          * member_uid : 7
          * member_username : 陈国
-         * member_avatar : http://10.0.6.58/uc_server/data/avatar/000/00/00/07_avatar_small.jpg
+         * member_avatar : https://ucenter.nf12.com/data/avatar/000/00/00/07_avatar_small.jpg
          * member_conisbind : 0
          * member_weixinisbind : 0
          * member_loginstatus : 0

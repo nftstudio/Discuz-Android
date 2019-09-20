@@ -42,7 +42,7 @@ import cn.tencent.DiscuzMob.utils.Tools;
 
 public class RedNetApp extends Application {
 
-    public static final String TAG_PICASSO = "http://wsq.demo.comsenz-service.com";
+    public static final String TAG_PICASSO = "https://www.nf12.com";
     public static volatile Handler INTERNAL_HANDLER = new Handler();
     private static RedNetApp instance;
     public ConnectivityManager CM;
@@ -59,6 +59,7 @@ public class RedNetApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
         instance = this;
         if (null == Modal.getInstance().getUserAccountDao()) {
             Modal.getInstance().init(this);

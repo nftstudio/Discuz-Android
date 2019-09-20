@@ -10,7 +10,7 @@ public class MyFriendBean {
 
     /**
      * Charset : UTF-8
-     * Variables : {"auth":"970cJ9VJRDP0logcDvPoRSLvjk5mjs6kJkHFfTogAr8uapWW2fVzbO0XjCfa9mLgEbt5RxQDD5VNvQvDoWD8","cookiepre":"68nN_2132_","count":"1","formhash":"b04e6aa8","groupid":"10","list":[{"uid":"10","username":"陈国1"}],"member_avatar":"http://10.0.6.58/uc_server/avatar.php?uid=7&size=small","member_uid":"7","member_username":"陈国","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"10","saltkey":"TES5nbAF"}
+     * Variables : {"auth":"970cJ9VJRDP0logcDvPoRSLvjk5mjs6kJkHFfTogAr8uapWW2fVzbO0XjCfa9mLgEbt5RxQDD5VNvQvDoWD8","cookiepre":"68nN_2132_","count":"1","formhash":"b04e6aa8","groupid":"10","list":[{"uid":"10","username":"陈国1"}],"member_avatar":"https://ucenter.nf12.com/avatar.php?uid=7&size=small","member_uid":"7","member_username":"陈国","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"10","saltkey":"TES5nbAF"}
      * Version : 1
      */
 
@@ -50,7 +50,7 @@ public class MyFriendBean {
          * formhash : b04e6aa8
          * groupid : 10
          * list : [{"uid":"10","username":"陈国1"}]
-         * member_avatar : http://10.0.6.58/uc_server/avatar.php?uid=7&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=7&size=small
          * member_uid : 7
          * member_username : 陈国
          * notice : {"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"}

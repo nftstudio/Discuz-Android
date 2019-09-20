@@ -10,7 +10,7 @@ public class CollecttheadBean {
     /**
      * Charset : UTF-8
      * Message : {"messagestr":"信息收藏成功 ","messageval":"favorite_do_success"}
-     * Variables : {"auth":"94bdvFw/ZzfhYqsYELYm4g80g5yG9DQAiEzfphdfB2K+xIAHttkQL0YBODsVEKFldwOPS/tyjRvbTLH5+RTnlw","cookiepre":"IiUw_2132_","formhash":"1c63a016","groupid":"11","member_avatar":"http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=84&size=small","member_uid":"84","member_username":"测试00","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"20","saltkey":"g81sknU7"}
+     * Variables : {"auth":"94bdvFw/ZzfhYqsYELYm4g80g5yG9DQAiEzfphdfB2K+xIAHttkQL0YBODsVEKFldwOPS/tyjRvbTLH5+RTnlw","cookiepre":"IiUw_2132_","formhash":"1c63a016","groupid":"11","member_avatar":"https://ucenter.nf12.com/avatar.php?uid=84&size=small","member_uid":"84","member_username":"测试00","notice":{"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"},"readaccess":"20","saltkey":"g81sknU7"}
      * Version : 1
      */
 
@@ -83,7 +83,7 @@ public class CollecttheadBean {
          * cookiepre : IiUw_2132_
          * formhash : 1c63a016
          * groupid : 11
-         * member_avatar : http://bbs.wsq.comsenz-service.com/newwsq/uc_server/avatar.php?uid=84&size=small
+         * member_avatar : https://ucenter.nf12.com/avatar.php?uid=84&size=small
          * member_uid : 84
          * member_username : 测试00
          * notice : {"newmypost":"0","newpm":"0","newprompt":"0","newpush":"0"}

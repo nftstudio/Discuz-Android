@@ -15,7 +15,7 @@ public class ImglistBean {
      * dateline : 1562643839
      * filename : tmp_a3f771253c7d6d89214d534eacb5e057.jpg
      * filesize : 96353
-     * attachment : https://guanjia.comsenz-service.com/data/attachment/forum/201907/09/114359bzwr3arrk00yaxn0.jpg
+     * attachment : https://www.nf12.com/data/attachment/forum/201907/09/114359bzwr3arrk00yaxn0.jpg
      * remote : 0
      * description :
      * readperm : 0

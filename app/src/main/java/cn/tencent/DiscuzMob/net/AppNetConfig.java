@@ -6,8 +6,8 @@ package cn.tencent.DiscuzMob.net;
 
 public class AppNetConfig {
 
-    public static final String BASE_ADDRESS = "https://guanjia.comsenz-service.com/"; //【注意】更改BASE_ADDRESS的时候，要搜索全局替换， 因为JS中也有。
-//    public static final String BASE_ADDRESS = "https://bbs.comsenz-service.com/"; //正式服务器
+    // public static final String BASE_ADDRESS = "https://www.nf12.com/"; //【注意】更改BASE_ADDRESS的时候，要搜索全局替换， 因为JS中也有。
+    public static final String BASE_ADDRESS = "https://www.nf12.com/"; //正式服务器
     public  String  ChangeUrl=BASE_ADDRESS;
 
     public String getChangeUrl() {
@@ -21,7 +21,7 @@ public class AppNetConfig {
     public static final String IMGURL = BASE_ADDRESS;
     public static final String IMGURL1 = BASE_ADDRESS;
     public static final String BASEURL = BASE_ADDRESS + "api/mobile/";
-    public static final String LIVEBASEURL = "http://bbs.wsq.comsenz-service.com/newwsq/forum.php";
+    public static final String LIVEBASEURL = "https://www.nf12.com/forum.php";
     public static final String LOGOURL = IMGURL1 + "static/image/common/logo.png";
     public static final String IMAGES = BASEURL + "?module=iwechat&data=json&version=5&mobiletype=Android";//轮播图
     public static final String ALLFORUM = BASEURL + "?module=forumindex&version=5&debug=1&mobiletype=Android";//全部版块
@@ -56,7 +56,7 @@ public class AppNetConfig {
     public static final String THREAD = BASEURL + "?module=newthread&version=5&android=1&debug=1&topicsubmit=yes&fid=";//普通帖
     public static final String QUOTE = BASEURL + "?module=sendreply&version=3";//回复引用
     public static final String PRAISETHREAD = BASEURL + "?module=recommend&version=4";//帖子点赞
-    public static final String COLLECTTHEAD = BASEURL + "?module=favorite&version=5&type=thread&id=";//收藏帖子http://10.0.6.58/api/mobile/version=4&android=1&debug=1&module=favthread&id=46&favoritesubmit=true
+    public static final String COLLECTTHEAD = BASEURL + "?module=favorite&version=5&type=thread&id=";//收藏帖子https://www.nf12.com/api/mobile/version=4&android=1&debug=1&module=favthread&id=46&favoritesubmit=true
     public static final String UNCOLLECTTHEAD = BASEURL + "?module=favorite&version=5&op=delete&mobiletype=Android&id=";//取消收藏帖子
     public static final String JOINACTIVITY = BASEURL + "?module=activityapplies&version=5&activitysubmit=true";//参加活动
     public static final String DELETELETTER = BASEURL + "?module=delpm&version=5&deletesubmit=1";//删除我的私信

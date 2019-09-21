@@ -14,7 +14,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -34,7 +35,8 @@
                     android:layout_gravity="center_vertical"
                     android:paddingLeft="15dp"
                     android:paddingRight="8dp"
-                    android:src="@drawable/back" />
+                    android:src="@drawable/back"
+                    android:contentDescription="TODO" />
 
                 <TextView
                     android:id="@+id/title"
@@ -55,7 +57,7 @@
                     android:layout_gravity="center_vertical|right"
                     android:background="@android:color/transparent"
                     android:text="注册"
-                    android:textColor="@color/blue"
+                    android:textColor="#A599B1"
                     android:textSize="17sp" />
             </FrameLayout>
 
@@ -66,8 +68,8 @@
                 android:gravity="center">
 
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="265dp"
+                    android:layout_height="50dp"
                     android:src="@drawable/app" />
             </LinearLayout>
 
@@ -228,9 +230,9 @@
                         android:background="@android:color/transparent"
                         android:hint="验证问题答案"
                         android:singleLine="true"
-                        android:textSize="15sp"
                         android:textColor="@color/text"
-                        android:textColorHint="@color/text" />
+                        android:textColorHint="@color/text"
+                        android:textSize="15sp" />
 
                 </LinearLayout>
 
@@ -284,15 +286,14 @@
                 </RelativeLayout>
 
 
-
                 <RelativeLayout
                     android:id="@+id/login_btn"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
                     android:background="@drawable/bt_blue_bg"
-                    android:paddingBottom="12dp"
-                    android:paddingTop="12dp">
+                    android:paddingTop="12dp"
+                    android:paddingBottom="12dp">
 
                     <TextView
                         android:id="@+id/login_text"
@@ -313,8 +314,7 @@
                     android:text="忘记密码?"
                     android:textColor="@color/text"
                     android:textSize="16sp"
-                    android:visibility="gone"
-                    />
+                    android:visibility="gone" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -334,7 +334,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:gravity="center"
-                        android:text="第三方登录"
+                        android:text="快速登录"
                         android:textColor="#565656"
                         android:textSize="16sp" />
 
@@ -371,7 +371,7 @@
                             android:layout_height="28dp"
                             android:src="@drawable/wechat" />
                     </LinearLayout>
-
+                    
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"

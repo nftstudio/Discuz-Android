@@ -1,5 +1,4 @@
 var HOST="https://www.nf12.com/";
-//var HOST="https://www.nf12.com/";
 var	isLoadReplyOver=false;//是否所有评论已加载完毕
 var	is2GOr3GLoadImgs=true;//2/3G网络是否加载图片
 

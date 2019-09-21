@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">逆风拾贰工作室</string>
-    <string name="app_desc">逆风拾贰工作室</string>
-    <string name="copyright">©2001-2018 Comsenz Inc</string>
+    <string name="app_name">逆风拾贰</string>
+    <string name="app_desc">逆风拾贰</string>
+    <string name="copyright">©2005-2020 NFTStudio Inc</string>
     <string name="net_msg">无网络环境  点“是”会进行网络设置，点“否”取消</string>
     <string name="ok">是</string>
     <string name="no">否</string>

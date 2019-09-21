@@ -74,7 +74,7 @@
         android:layout_centerHorizontal="true"
         android:layout_gravity="center"
         android:layout_marginTop="32dip"
-        android:text="北京康创联盛科技有限公司"
+        android:text="逆风拾贰工作室"
         android:textColor="@color/black"
         android:textSize="16sp" />
 
